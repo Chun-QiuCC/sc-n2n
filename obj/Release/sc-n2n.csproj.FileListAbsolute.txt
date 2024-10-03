@@ -1,0 +1,12 @@
+F:\C#\sc-n2n\sc-n2n\bin\Release\sc-n2n.exe.config
+F:\C#\sc-n2n\sc-n2n\bin\Release\sc-n2n.exe
+F:\C#\sc-n2n\sc-n2n\bin\Release\sc-n2n.pdb
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.csproj.AssemblyReference.cache
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.csproj.SuggestedBindingRedirects.cache
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc_n2n.main.resources
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc_n2n.Properties.Resources.resources
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.csproj.GenerateResource.cache
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.csproj.CoreCompileInputs.cache
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.exe
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc-n2n.pdb
+F:\C#\sc-n2n\sc-n2n\obj\Release\sc_n2n.Form2.resources
